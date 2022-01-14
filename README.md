@@ -11,6 +11,7 @@ It is up to each individual player if an ace is worth 1 or 11. Face cards are 10
 The game needs to have one player versus an automated dealer.
 
 ## HOW TO PLAY
+
 The player must be able to pick their betting amount.
 The dealer deals 2 cards to the player and 2 cards to theymselves.
 Both player cards are visible, but only one of the dealer cards are visible.
