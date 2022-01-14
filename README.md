@@ -23,3 +23,14 @@ After the player hits, it is the dealer's turn to do the same.
 Whoever gets the closes value below 21 WINS!
 If any person gets a value above 21 they BUST! Thus they lose the bet.
 If any player gets exactly 21, it is a BLACKJACK! They instantly win!
+
+## RUN
+
+```
+python BLACKJACK.py
+```
+in windows.
+```
+py BLACKJACK.py
+```
+in linux.
